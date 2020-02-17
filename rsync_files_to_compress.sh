@@ -2,7 +2,7 @@
 #built 2020 Feb 13th
 
 # rsync from yogurt's /tmp/video/ to this server's $HOME/Videso/process/
-rsync -chavztP --remove-source-files -e "ssh -p putPortNumberHere " username@ipaddress:/tmp/video/ $HOME/Videos/process/
+rsync -havztP --remove-source-files -e "ssh -p putPortNumberHere " username@ipaddress:/tmp/video/ $HOME/Videos/process/
 
 # move all original avi files to video dir keeping timestamps.
 cp -p $HOME/Videos/process/*.avi $HOME/Videos/video/
