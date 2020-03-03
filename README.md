@@ -1,4 +1,4 @@
-# Server
+# video_compressor
 
 video compressor
  sync video files from client automatically. 
