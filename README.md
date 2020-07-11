@@ -7,9 +7,9 @@ Video compression
 
 ## Description
 
-very basic video compression using ffmpeg. 
+Very basic video compression using ffmpeg. 
 
-`ffmpeg_compressor.sh` will convert and compress all avi files in $HOME/Video/prrocess/ directory.
+`ffmpeg_compressor.sh` will convert and compress all avi files into mp4 at $HOME/Video/prrocess/ directory.
 
 ## Demo in Animation
 
