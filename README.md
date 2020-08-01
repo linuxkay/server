@@ -17,6 +17,8 @@ Very basic video compression using ffmpeg.
 
 ## Requirements
 
+ffmpeg
+
 ## Install
 
 ## Usage
