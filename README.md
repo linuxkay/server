@@ -21,6 +21,8 @@ ffmpeg
 
 ## Install
 
+in Ubuntu
+
 `sudo apt -y install ffmpeg`
 
 ## Usage
