@@ -29,6 +29,8 @@ in Ubuntu
 
 ## Usage
 
+Simply run ffmpeg_compressor.sh
+
 ## Contribution
 
 ## Memo
